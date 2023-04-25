@@ -1,0 +1,21 @@
+// @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// $primary: #0074d9;
+// $danger: #EE2A7B !important;
+
+// $theme-colors: (
+//     "primary": $primary,
+//     "danger": $danger
+// );
+
+.btn {
+    background-color: #EE2A7B;
+    color: #fff;
+    transition: all .7s;
+}
+
+.btn:hover {
+    color: EE2A7B;
+    background-color: transparent;
+    border-color: EE2A7B;
+}
